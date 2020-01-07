@@ -20,7 +20,7 @@ This rubric is intended to help guide expectations and increase transparency. Ho
     - 1 point for list being unordered (-1 if it is ordered)
 
 
-## other-questions.md File (**15 points**)
+## other-questions.md File (**19 points**)
 
 - Print your working directory (**1 point**)
 
