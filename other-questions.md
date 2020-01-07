@@ -22,6 +22,8 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```
 
+# Finding Cheat Sheets
+
 Search Google for *git cheat sheats*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentance explaining why that one was your favorite.
 
 
