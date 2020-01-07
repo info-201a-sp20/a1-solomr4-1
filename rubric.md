@@ -20,7 +20,7 @@ This rubric is intended to help guide expectations and increase transparency. Ho
     - 1 point for list being unordered (-1 if it is ordered)
 
 
-## git-commands.md File (**15 points**)
+## other-questions.md File (**15 points**)
 
 - Print your working directory (**1 point**)
 
@@ -39,3 +39,11 @@ This rubric is intended to help guide expectations and increase transparency. Ho
 - Make a commit of your changes, including a descriptive message (**2 points**: -1 if the commit doesn't describe the work completed)
 
 - Push your change up to GitHub(**2 points**: `git push` is just fine)
+
+- link to a git cheet sheet provided (**1 point**)
+
+- An explanation of why that one was preferred  (**1 point**)
+
+- link to a markdown cheet sheet provided (**1 point**)
+
+- An explanation of why that one was preferred  (**1 point**)
