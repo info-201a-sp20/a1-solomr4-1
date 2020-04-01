@@ -24,9 +24,11 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 # Finding Cheat Sheets
 
-Search Google for *git cheat sheats*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentance explaining why that one was your favorite.
+A cheet sheet is a website (or document) that has a list of commonly used commands for a program or programming language.
+
+Search Google for *git cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
 
 
 
-Search Google for *markdown cheat sheats*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentance explaining why that one was your favorite.
+Search Google for *markdown cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
 
