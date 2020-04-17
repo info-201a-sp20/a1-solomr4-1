@@ -7,7 +7,7 @@ On March 31 Las Vegas shut down its strip due to the **COVID-19** outbreak. Stev
 
 This [article](https://www.theguardian.com/world/2020/apr/14/las-vegas-strip-closed-coronavirus) has more information on this event:
 
-img
+(/imgs/vegasstrip.jpg)
 
 * Many strip clubs advertised as [“Corona virus free”](https://www.vice.com/en_us/article/pkewbv/a-las-vegas-strip-club-is-advertising-coronavirus-free-lap-dances) but were later shut down
 * Las Vegas had about [42.5 million visitors](https://assets.simpleviewcms.com/simpleview/image/upload/v1/clients/lasvegas/ES_Feb_2020_385c7008-9d01-4964-9d1f-a6a447fe9579.pdf) due to the shutdown the local and state economy is said to decrease
